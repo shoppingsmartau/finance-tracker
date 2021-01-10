@@ -22,4 +22,4 @@ class StockController < ApplicationController
         end
     end
     
-end
+endfriends
